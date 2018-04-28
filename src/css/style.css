@@ -1,0 +1,48 @@
+@charset "utf-8";
+
+/* 
+    Authored by Myval Studio
+	Licensed under the MIT license - http://opensource.org/licenses/MIT
+	
+	Static Seed by Myval Studio @ Update 21/04/2018
+
+    Copyright 2018 Myval Studio
+*/
+
+@import url('https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.min.css');
+@import url('https://use.fontawesome.com/releases/v5.0.6/css/all.css');
+
+/* Change font by adding its name in "Varela+Round" place, then in body's font-family */
+@import url('https://fonts.googleapis.com/css?family=Varela+Round');
+
+body {
+	background-color: #fff;
+	color: #191A27; /* rgba(25, 25, 25, 1) */
+	overflow-x: hidden;
+	font-family: 'Varela Round', sans-serif;
+	font-weight: 600;
+}
+
+/* PALETTE:
+	Default color: #F37972
+	    Default dark: #EF4137
+	    Default light: #C6352D
+	Background color: #696B79
+	    Background dark: #2B2D42
+	    Background light: #191A27
+*/
+
+
+/* Content */
+
+
+/* Buttons */
+
+/* /Buttons */
+
+/* Utils */
+
+/* /Utils */
+
+@import url('responsive.css');
+

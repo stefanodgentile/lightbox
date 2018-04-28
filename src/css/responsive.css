@@ -1,0 +1,40 @@
+/* 
+    Authored by Myval Studio
+    Licensed under the MIT license - http://opensource.org/licenses/MIT
+
+    Static Seed by Myval Studio @ Update 21/04/2018
+
+    Copyright 2018 Myval Studio
+*/
+
+/* Responsive:
+    As this is not a mobile first section, we adapt it to 1080, tablet and smartphone views */
+
+/* Responsive: 1080 */
+
+    @media all and (min-device-width: 1920px){
+
+    }
+
+/* /Responsive: 1080 */
+
+/* Responsive: Tablet & small screens */
+
+    @media all and (max-device-width: 800px){
+
+        html,body {
+            width: 100%;
+            height: 100%;
+        }
+
+    }
+
+/* /Responsive: Tablet & small screens */
+
+/* Responsive: Smartphone */
+
+    @media all and (max-device-width: 480px){
+
+    }
+
+/* /Responsive: Smartphone */
